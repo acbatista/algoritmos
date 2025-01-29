@@ -5,12 +5,14 @@
       php: respostas/php/exercicio01.php
       python: respostas/python/exercicio01.py
       ruby: respostas/ruby/exercicio01.rb
+      go: respostas/go/exercicio01.go
 - exercicio02:
     pergunta: Escreva um algoritmo para ler um valor (do teclado) e escrever (na tela) o seu antecessor.
     resposta:
       php: respostas/php/exercicio02.php
       python: respostas/python/exercicio02.py
       ruby: respostas/ruby/exercicio02.rb
+      go: respostas/go/exercicio02.go
 
 - exercicio03:
     pergunta: Escreva um algoritmo para ler as dimensões de um retângulo (base e altura), calcular e escrever a área do retângulo.
